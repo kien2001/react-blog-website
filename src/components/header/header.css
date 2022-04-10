@@ -1,6 +1,6 @@
 header{
-    height:100vh;
-    padding-top: 3rem;
+    height:110vh;
+    padding-top: 2rem;
     overflow: hidden;
 }
 .header__container{
@@ -63,7 +63,7 @@ header{
 /* ==========Media Queries(Medium Devices) =========*/
 @media screen and (max-width:1024px) {
     header{
-        height: 85vh;
+        height: 100vh;
     }
     .me{
         left: calc(50% - 8rem);
