@@ -15,7 +15,7 @@ import testimonialArray from './testimonialArray'
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
+      <h5 className="marked__titles">Review from clients</h5>
       <h2>Testimonials</h2>
       <Swiper className="container container__testimonials"
         modules={[Pagination,]}

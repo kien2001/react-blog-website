@@ -9,7 +9,7 @@ import Me from '../../assets/me-about.jpg'
 function About() {
   return (
     <section id="about">
-      <h5>Get to know</h5>
+      <h5 className="marked__titles">Get to know</h5>
       <h2>About me</h2>
       <div className="container container__about">
         <div className="about__me">
